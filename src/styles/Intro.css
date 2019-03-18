@@ -1,0 +1,12 @@
+.intro {
+  padding-right: 3rem;
+  width: 30%;
+}
+h1 {
+  font-weight: bold;
+  word-wrap: break-word;
+}
+#logo {
+  width: 20%;
+  height: 20%;
+}

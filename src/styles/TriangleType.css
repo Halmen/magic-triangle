@@ -1,0 +1,18 @@
+.type {
+  padding-left: 3rem;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 15rem;
+  width: 15rem;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

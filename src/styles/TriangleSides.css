@@ -1,0 +1,14 @@
+form {
+  width: 100%;
+}
+
+.fields {
+  width: 25%;
+}
+.data {
+  width: 50%;
+  display: -webkit-flex; /* Safari */
+  -webkit-flex-flow: row wrap; /* Safari 6.1+ */
+  display: flex;
+  flex-flow: row wrap;
+}
